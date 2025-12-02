@@ -1,4 +1,4 @@
-# eazy-dlp / Media Downloader
+# easy-dlp / Media Downloader
 
 ![ED](https://gahoodev.gitlab.io/home/ED.png)
 
@@ -15,12 +15,12 @@ A simple and easy-to-use media downloader. Download videos from YouTube and othe
 
 ## Download (Installer Version) ※Windows Only
 
-#### 1. Download `eazy-dlp Setup.exe` from the repository and run it
+#### 1. Download `easy-dlp_setup.exe` from the repository and run it
 
 #### 2. Follow the wizard to complete installation
 
 ## Download (exe version) ※Windows only
-#### Download `eazy-dlp.exe` from the repository and run it
+#### Download `easy-dlp.exe` from the repository and run it
 
 ## Download (python version)
 ### Required Environment
@@ -30,7 +30,7 @@ A simple and easy-to-use media downloader. Download videos from YouTube and othe
 - colorama
 - colorist
 
-### Download `eazydlp-python3.zip` from the repository and extract it
+### Download `easydlp-python3.zip` from the repository and extract it
 
 ### 1. Install and use automatically
 
@@ -57,7 +57,7 @@ pip install yt-dlp
 #### Usage
 
 ```bash
-python eazydlp.py
+python easydlp.py
 ```
 
 ### Menu
@@ -130,12 +130,12 @@ This project is released under the [MIT License](https://mit-license.org/).
 
 ## ダウンロード(インストーラー版)※Windowsのみ
 
-#### 1. リポジトリから`eazy-dlp Setup.exe`をダウンロードして実行
+#### 1. リポジトリから`easy-dlp Setup.exe`をダウンロードして実行
 
 #### 2. ウィザード通りに進めてインストールを完了
 
 ## ダウンロード(exe版)※Windowsのみ
-#### リポジトリから`eazy-dlp.exeをダウンロードして実行
+#### リポジトリから`easy-dlp.exeをダウンロードして実行
 
 ## ダウンロード(python版)
 ### 必要な環境
@@ -145,7 +145,7 @@ This project is released under the [MIT License](https://mit-license.org/).
 - colorama
 - colorist
 
-### リポジトリから、`eazydlp-python3.zip`をダウンロードして解凍
+### リポジトリから、`easydlp-python3.zip`をダウンロードして解凍
 
 ### 1. 自動でインストールして使う
 
@@ -172,7 +172,7 @@ pip install yt-dlp
 #### 使い方
 
 ```bash
-python eazydlp.py
+python easydlp.py
 ```
 
 ### メニュー
